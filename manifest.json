@@ -1,0 +1,12 @@
+{
+	"name": "All Round Git",
+	"version": "1.0",
+	"omnibox": { "keyword" : "gh" },
+	"background": {
+		"scripts": ["background.js"]
+	},
+	"permissions": [
+		"tabs"
+	],
+	"manifest_version": 2
+}
